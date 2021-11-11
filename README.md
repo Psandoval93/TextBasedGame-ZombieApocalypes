@@ -1,5 +1,5 @@
 # TextBasedGame-ZombieApocalypes
-This a text based game that is based on movement between rooms, acquiring items and moving to where the enemy is, in this case the zombies. This game does not give a map so this is a blind maze type of game with instruction embedded in the code.
+This a text based game that is based on movement between rooms, acquiring items and moving to where the enemy is, in this case the zombies. This game does not give a map so this is a blind maze type of game with instruction embedded in the code. (Python3 Language)
 
 # Game Storyboard Description
 The lights have gone out and you hear a pounding on your front door. You take a look outside your window, and a mob of zombies is on your front porch! You must defeat the mob of zombies and save yourself and your family. Do so by acquiring the required items in the house. Get the flashlight in the hallway to see in the dark, your rifle from the bedroom to protect yourself and your family. Don’t forget the first aid from the bathroom just in case anyone gets hurt, you’ll also need to gather all the ammo you can carry from the garage for your rifle, a knife from the kitchen for extra protection, and food from the kitchen to replenish your energy to defeat the zombies at your door step.​
